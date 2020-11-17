@@ -15,7 +15,8 @@ const Home = ({allPostsData}) => {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hey! My name is Evans. I develop software. I use React.js, Node.js and Typescript as my main Tools.
-          I like playing chess. I'm currently watching the 2015 hit drama/musical series Empire. It's awesome!
+          I like playing chess. I'm currently watching the 2015 hit drama/musical series Empire. It's awesome! This is new it only
+          exists at test. Ninjasss! Booom!!
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
